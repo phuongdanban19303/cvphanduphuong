@@ -9,10 +9,12 @@ const ProfileSidebar = () => {
     { name: "C++", percentage: 90 },
     { name: "HTML", percentage: 60 },
     { name: "CSS", percentage: 60 },
+    { name: "Javascript", percentage: 90 },
     { name: "React", percentage: 90 },
     { name: "Figma", percentage: 70 },
     { name: "Github", percentage: 50 },
     { name: "AI ứng dụng code", percentage: 40 },
+    { name: "Wordpress", percentage: 40 },
     { name: "Canva", percentage: 80 },
     { name: "Capcut", percentage: 70 },
   ];

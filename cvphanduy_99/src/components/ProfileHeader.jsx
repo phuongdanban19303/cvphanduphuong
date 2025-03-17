@@ -13,7 +13,7 @@ const ProfileHeader = () => {
         />
       </div>
       <h1 className="mb-1 text-2xl font-semibold">PHAN DUY PHƯƠNG</h1>
-      <p className="text-base text-neutral-200">Thực tập sinh JAVA</p>
+      <p className="text-base text-neutral-200">Thực tập sinh Lập Trình</p>
     </header>
   );
 };
