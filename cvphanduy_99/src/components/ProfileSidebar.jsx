@@ -6,15 +6,15 @@ import SkillBar from "./SkillBar";
 
 const ProfileSidebar = () => {
   const skills = [
-    { name: "Figma", percentage: 90 },
-    { name: "Sketch", percentage: 85 },
-    { name: "Adobe Photoshop", percentage: 75 },
-    { name: "Adobe Illustrator", percentage: 60 },
-    { name: "Principle", percentage: 55 },
-    { name: "Adobe XD", percentage: 50 },
-    { name: "Adobe Illustrator", percentage: 60 },
-    { name: "Principle", percentage: 55 },
-    { name: "Adobe XD", percentage: 50 },
+    { name: "C++", percentage: 90 },
+    { name: "HTML", percentage: 60 },
+    { name: "CSS", percentage: 60 },
+    { name: "React", percentage: 90 },
+    { name: "Figma", percentage: 70 },
+    { name: "Github", percentage: 50 },
+    { name: "AI ứng dụng code", percentage: 40 },
+    { name: "Canva", percentage: 80 },
+    { name: "Capcut", percentage: 70 },
   ];
 
   return (
